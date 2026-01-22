@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:8871e5,100:b678c4&text=데이터가%20행동으로%20이어지는%20순간을%20만듭니다&fontAlign=50&fontSize=43&textBg=false&animation=fadeIn&fontAlignY=50&stroke=b678c4&strokeWidth=0.2"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=249&color=0:8871e5,100:b678c4&text=데이터가%20행동으로%20이어지는%20순간을%20만듭니다&fontAlign=50&fontSize=43&textBg=false&animation=fadeIn&fontAlignY=50&stroke=b678c4&strokeWidth=0.2&fontColor=FFFFFF"/>
 </p>
 
 ## Introduce
