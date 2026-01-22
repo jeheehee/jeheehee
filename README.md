@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:8871e5,100:b678c4&text=데이터가%20행동으로%20이어지는%20순간을%20만듭니다&fontAlign=50&fontSize=43&textBg=false&animation=fadeIn&fontAlignY=50&stroke=b678c4&strokeWidth=0.2"/>
+</p>
+
 ## Introduce
 
 - 답이 정해져 있지 않은 문제를 좋아합니다.
