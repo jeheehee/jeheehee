@@ -20,5 +20,9 @@ https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoCol
 #### Frameworks
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
+<br>
 
-
+## Activities
+- 2023.11 데잇걸즈 (Data+It Girls) 7기
+- 2022.12 SSAFY (삼성청년SW아카데미) 7기
+- 2021.12 공공데이터 인턴십
