@@ -10,14 +10,6 @@
 
 <br>
 
-## Activities
-
-- 2023.11 데잇걸즈(Data+It Girls) 7기
-- 2022.12 SSAFY(삼성청년SW아카데미) 7기
-- 2021.12 공공데이터 인턴십 수료
-
-<br>
-
 ## Tech Stack
 
 #### Languages
@@ -27,3 +19,13 @@ https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoCol
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 #### Frameworks
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+
+<br>
+
+## Activities
+
+- 2023.11 데잇걸즈(Data+It Girls) 7기
+- 2022.12 SSAFY(삼성청년SW아카데미) 7기
+- 2021.12 공공데이터 인턴십 수료
+
+
