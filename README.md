@@ -13,7 +13,6 @@
 <br>
 
 ## Tech Stack
-
 #### Languages
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 #### Library
@@ -24,6 +23,8 @@
 <br>
 
 ## Activities
+:open_book: 개발자 독서 모임 `모다독` &nbsp; :couplekiss: 취미 `헬스, 복싱, 요가` &nbsp; :globe_with_meridians: 외국인 언어교환 모임 `Blooming` 
+<br>
 - 2023.11 데잇걸즈 (Data+It Girls) 7기
 - 2022.12 SSAFY (삼성청년SW아카데미) 7기
 - 2021.12 공공데이터 인턴십
