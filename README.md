@@ -23,7 +23,7 @@
 <br>
 
 ## Activities
-:open_book: 개발자 독서 모임 `모다독` &nbsp; :couplekiss: 취미 `헬스, 복싱, 요가` &nbsp; :globe_with_meridians: 외국인 언어교환 모임 `Blooming` 
+:open_book: 개발자 독서 모임 `모다독` &nbsp; :globe_with_meridians: 외국인 언어교환 모임 `Blooming` :couplekiss: 취미 `헬스, 복싱, 요가` &nbsp; 
 <br>
 - 2023.11 데잇걸즈 (Data+It Girls) 7기
 - 2022.12 SSAFY (삼성청년SW아카데미) 7기
