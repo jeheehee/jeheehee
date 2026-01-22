@@ -8,8 +8,8 @@
 
 ## Activities
 
-- 2023.11 데잇걸즈 (Data+It Girls) 7기
-- 2022.12 SSAFY (삼성청년SW아카데미) 7기
+- 2023.11 데잇걸즈(Data+It Girls) 7기
+- 2022.12 SSAFY(삼성청년SW아카데미) 7기
 - 2021.12 공공데이터 인턴십
 
 <br>
